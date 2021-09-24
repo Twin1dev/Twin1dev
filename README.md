@@ -1,6 +1,6 @@
 <h1 align="center">About Me: Twin1</h1>
 <h3 align="center">About me!</h3>
-<h4 align= "left">Hello! i am twin1! i code discord bots, do fortnite stuff, and learning c#!</h3>
+<h4 align= "center">Hello! i am twin1! i code discord bots, do fortnite stuff, and learning c#!</h3>
 
 <p align="left"> <a href="https://twitter.com/lonetwin1" target="blank"><img src="https://img.shields.io/twitter/follow/lonetwin1?logo=twitter&style=for-the-badge" alt="lonetwin1" /></a> </p>
 
