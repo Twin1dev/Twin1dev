@@ -1,12 +1,12 @@
 <h1 align="center">About Me: Twin1</h1>
 <h3 align="center">About me!</h3>
-<h4 align= "center">Hello! i am twin1! i code discord bots, do fortnite stuff, and learning c#!</h3>
+<h4 align= "center">Creator of the Ikonik Bot. Creating.. Windows Booster | C#, JS, HTML, PY</h4>
 
-<p align="left"> <a href="https://twitter.com/quicktwin1" target="blank"><img src="https://img.shields.io/twitter/follow/lonetwin1?logo=twitter&style=for-the-badge" alt="lonetwin1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/twin1dev" target="blank"><img src="https://img.shields.io/twitter/follow/twin1dev?logo=twitter&style=for-the-badge" alt="twin1dev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lonetwin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lonetwin1" height="30" width="40" /></a>
+<a href="https://twitter.com/twin1dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lonetwin1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
