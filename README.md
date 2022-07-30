@@ -1,8 +1,9 @@
 <h1 align="center">About Me: Twin1</h1>
 <h3 align="center">About me!</h3>
-<h4 align= "center">Creator of the Ikonik Bot. Creating.. Windows Booster | C#, JS, HTML, PY</h4>
+<h4 align= "center">I mod random ue4 games then wonder what i am doing with my life. | C#, JS, HTML, PY</h4>
 
 <p align="left"> <a href="https://twitter.com/twin1dev" target="blank"><img src="https://img.shields.io/twitter/follow/twin1dev?logo=twitter&style=for-the-badge" alt="twin1dev" /></a> </p>
+![My Discord](https://discord-readme-badge.vercel.app/api?id=Twin1#6969)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
