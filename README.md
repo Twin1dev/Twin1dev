@@ -1,6 +1,6 @@
 <h1 align="center">About Me: Twin1</h1>
 <h3 align="center">About me!</h3>
-<h4 align= "center">I mod random ue4 games then wonder what i am doing with my life. | C#, JS, HTML, PY</h4>
+<h4 align= "center">Im studying hacking and i make cheats for games. my current project is UVFN</h4>
 <p align="center">
 <img src=https://github-readme-twitter.gazf.vercel.app/api?id=twin1dev&layout=wide&show_reply=off>
 
