@@ -1,10 +1,21 @@
 # twin1dev.bio
 
-- 🧠 Fluent in C#, JS, Python, C++
-- 🎮 UE Game Modder and Researcher
+- Unreal Engine game "Modder"
+- Best game launcher dev out there fr 😎
 
+## Projects and More!
+## Current Projects.
+- Opium
+- Neo
+- Flare
 
-https://twin1.xyz
+### Previous Projects
+- CoreMP
+- Mako
+- Sapphire
 
+<br><br>
+## Upcoming Projects..
+:)
 
 <img src="https://twin1.xyz/Thiswasunknown.gif" width=200> 
