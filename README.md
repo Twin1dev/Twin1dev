@@ -6,7 +6,6 @@
 ## Projects and More!
 ## Current Projects.
 - Opium
-- Neo
 - Flare
 
 ### Previous Projects
