@@ -6,9 +6,9 @@
 ## Projects and More!
 ## Current Projects.
 - Opium
-- Flare
 
 ### Previous Projects
+- Flare
 - CoreMP
 - Mako
 - Sapphire
