@@ -1,20 +1,26 @@
-# twin1dev.bio
+# About Me
 
-- Unreal Engine game "Modder"
-- Best game launcher dev out there fr 😎
+Hello, welcome to my github! most of my current repos are privated and some soon to be open!
+I work on OG Fortnite Stuff, Mostly Gameservers and Backends.
 
-## Projects and More!
-## Current Projects.
-- Opium
+## Known Languages:
+- JS/TS
+- C++
+- C#
+- LUA
+- Python
+- Dart/Flutter
 
-### Previous Projects
-- Flare
-- CoreMP
-- Mako
+## Projects
+### Current:
+- Beyond
+### Past:
 - Sapphire
+- Opium
+- Flare
 
-<br><br>
-## Upcoming Projects..
-:)
+## Socials!
 
-<img src="https://twin1.xyz/Thiswasunknown.gif" width=200> 
+### [Twitter](https://twitter.com/twin1dev)
+
+### Discord - Twin1#1111
