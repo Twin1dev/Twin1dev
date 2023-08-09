@@ -3,13 +3,10 @@
 Hello, welcome to my github! most of my current repos are privated and some soon to be open!
 I work on OG Fortnite Stuff, Mostly Gameservers and Backends.
 
-## Known Languages:
+## Main Languages:
 - JS/TS
 - C++
 - C#
-- LUA
-- Python
-- Dart/Flutter
 
 ## Projects
 ### Current:
