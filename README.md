@@ -20,4 +20,4 @@ I work on OG Fortnite Stuff, Mostly Gameservers and Backends.
 
 ### [Twitter](https://twitter.com/twin1dev)
 
-### Discord - t1dv
+### Discord - 1tdv
