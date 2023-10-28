@@ -2,7 +2,7 @@
 
 - own beyond
   
-![Discord Banner 2](https://discordapp.com/api/guilds/1097271368896217108/widget.png?style=banner2)
+[![Discord Banner 2](https://discordapp.com/api/guilds/1097271368896217108/widget.png?style=banner2)](https://discord.gg/beyondmp)
 
 ## socials 
 
