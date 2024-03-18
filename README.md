@@ -1,5 +1,7 @@
 # about me
 
+- heavily interested in unreal engine
+- intermediate at reverse engineering 
 - own beyond
   
 [![Discord Banner 2](https://discordapp.com/api/guilds/1097271368896217108/widget.png?style=banner2)](https://discord.gg/beyondmp)
