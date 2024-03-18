@@ -14,4 +14,4 @@ If you need some starting stuff with gameservers, i have made some useful stuff 
 
 ## socials 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1092691233010368653?idleMessage=probably%20sleeping%20or%20afk)](https://discord.com/users/1092691233010368653)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1092691233010368653?idleMessage=i%20appear%20offline%20alot)](https://discord.com/users/1092691233010368653)
