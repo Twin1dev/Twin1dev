@@ -1,8 +1,8 @@
 # about me
 
-- heavily interested in unreal engine
-- intermediate at reverse engineering 
-- own beyond
+- heavily interested in helping other people
+- likes to customize game servers
+- own ruckus
   
 [![Discord Banner 2](https://discordapp.com/api/guilds/1097271368896217108/widget.png?style=banner2)](https://discord.gg/beyondmp)
 
