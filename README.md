@@ -4,7 +4,7 @@
 - intermediate at reverse engineering 
 - own beyond
   
-[![Discord Banner 2](https://discordapp.com/api/guilds/1097271368896217108/widget.png?style=banner2)](https://discord.gg/beyondmp)
+[![Discord Banner 2](https://discordapp.com/api/guilds/1110476923416621166/widget.png?style=banner2)](https://discord.gg/beyondmp)
 
 ## useful stuff
 If you need some starting stuff with gameservers, i have made some useful stuff for your own use :)
